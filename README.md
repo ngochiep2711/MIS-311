@@ -1,4 +1,6 @@
-# MIS 311 Project: Data Analysis of Global Life Expectancy  
+# MIS 311 Project:
+# Assignment #1: Personal Portfolio Site
+# Data Analysis of Global Life Expectancy  
 ## 1. Data Overview
 
 The dataset titled “Life Expectancy” presents comprehensive information on key health and demographic indicators across 182 countries. It focuses on mortality and survival statistics, making it a valuable resource for examining the relationship between early-age mortality and average life expectancy, and for comparing overall health outcomes across world regions.
